@@ -118,4 +118,10 @@ Coaching SF
 * Roles  
 * Access Control Rules  
 
+[- Security](https://symfony.com/doc/2.3/book/security.html)  
+[- How to Impersonate a User](https://symfony.com/doc/2.3/cookbook/security/impersonating_user.html)  
+[- How to Use Voters to Check User Permissions](https://symfony.com/doc/2.3/cookbook/security/voters.html)  
+[- How to Force HTTPS or HTTP for different URLs](https://symfony.com/doc/2.3/cookbook/security/force_https.html)  
+[- How to Secure any Service or Method in your Application](https://symfony.com/doc/2.3/cookbook/security/securing_services.html)  
+
 
