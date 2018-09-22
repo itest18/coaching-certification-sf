@@ -62,3 +62,31 @@ Coaching SF
 [- Twig Template Form Function and Variable Reference](https://symfony.com/doc/2.3/reference/forms/twig_reference.html)  
 [- Symfony Twig Extensions](https://symfony.com/doc/2.3/reference/twig_reference.html)  
 
+---
+
+#### **5) Forms**
+* Designing form types  
+* Processing a form  
+* Built-in form field types  
+* Form rendering in Twig  
+* Form security (CSRF protection)  
+* Data transformers  
+* Form events  
+
+[- Forms](https://symfony.com/doc/2.3/book/forms.html)  
+[- How to Customize Form Rendering](https://symfony.com/doc/2.3/cookbook/form/form_customization.html)  
+[- How to Use Data Transformers](https://symfony.com/doc/2.3/cookbook/form/data_transformers.html)  
+[- How to Dynamically Modify Forms Using Form Events](https://symfony.com/doc/2.3/cookbook/form/dynamic_form_modification.html)  
+[- How to Create a Custom Form Field Type](https://symfony.com/doc/2.3/cookbook/form/create_custom_field_type.html)  
+[- How to Create a Form Type Extension](https://symfony.com/doc/2.3/cookbook/form/create_form_type_extension.html)  
+[- How to Unit Test your Forms](https://symfony.com/doc/2.3/cookbook/form/unit_testing.html)  
+
+---
+
+#### **9) Data Validation** 
+* Validating a PHP object  
+* Built-in validation constraints  
+* Validation constraints scopes  
+* Validation groups  
+
+
