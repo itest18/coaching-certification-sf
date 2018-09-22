@@ -83,10 +83,23 @@ Coaching SF
 
 ---
 
-#### **9) Data Validation** 
+#### **6) Data Validation** 
 * Validating a PHP object  
 * Built-in validation constraints  
 * Validation constraints scopes  
 * Validation groups  
+
+[- Validation](https://symfony.com/doc/2.3/book/validation.html)  
+
+---
+
+#### **7) Dependency Injection** 
+* The service container  
+* Global configuration parameters  
+* Built-in Symfony services  
+* Registering new custom services  
+* Dependency injection tags  
+* Semantic bundle configuration  
+* Compiler passes  
 
 
