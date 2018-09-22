@@ -1,8 +1,7 @@
-
 Coaching SF
 ===========================
 
-#### **1) Bundles***
+#### **1) Bundles**
 * Namming conventions    
 * Code organization    
 * Controllers    
@@ -10,5 +9,5 @@ Coaching SF
 * Resources    
 
 `The Bundle System`  
-.. _`The Bundle System`: https://symfony.com/doc/2.3/book/bundles.html  
+`The Bundle System`: https://symfony.com/doc/2.3/book/bundles.html  
 
