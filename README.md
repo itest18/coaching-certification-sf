@@ -36,6 +36,4 @@ Coaching SF
 * Views  
 * Resources  
 
-https://symfony.com/doc/2.3/book/bundles.html  
-https://symfony.com/doc/2.3/cookbook/bundles/index.html  
-https://symfony.com/doc/2.8/bundles/best_practices.html 
+https://symfony.com/doc/2.3/book/bundles.html
