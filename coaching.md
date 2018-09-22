@@ -102,4 +102,20 @@ Coaching SF
 * Semantic bundle configuration  
 * Compiler passes  
 
+[- Service Container](https://symfony.com/doc/2.3/book/service_container.html)  
+[- How to Work with Compiler Passes in Bundles](https://symfony.com/doc/2.3/cookbook/service_container/compiler_passes.html)  
+[- The Dependency Injection Tags](https://symfony.com/doc/2.3/reference/dic_tags.html)  
+
+---
+
+#### **8) Security**
+* Authentication  
+* Authorization  
+* User providers  
+* Firewalls  
+* Users  
+* Encoders  
+* Roles  
+* Access Control Rules  
+
 
