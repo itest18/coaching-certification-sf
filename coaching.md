@@ -1,11 +1,14 @@
+.. index::
+   single: Propel
+
 Coaching SF
 ===========================
 
-#### **1) Bundles**
-* Namming conventions    
-* Code organization    
-* Controllers    
-* Views    
+#### **4) Bundles**
+* Namming conventions  
+* Code organization  
+* Controllers  
+* Views  
 * Resources    
 
 `The Bundle System`  
