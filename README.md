@@ -26,3 +26,16 @@ Coaching SF
 * Composer dependency manager  
 * Development best practices  
 * Framework overloading  
+
+---
+
+#### **4) Bundles**
+* Namming conventions  
+* Code organization  
+* Controllers  
+* Views  
+* Resources  
+
+https://symfony.com/doc/2.3/book/bundles.html  
+https://symfony.com/doc/2.3/cookbook/bundles/index.html  
+https://symfony.com/doc/2.8/bundles/best_practices.html 
