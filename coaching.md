@@ -1,6 +1,3 @@
-.. index::
-   single: Propel
-
 Coaching SF
 ===========================
 
@@ -11,6 +8,4 @@ Coaching SF
 * Views  
 * Resources    
 
-`The Bundle System`  
-`The Bundle System`: https://symfony.com/doc/2.3/book/bundles.html  
-
+[The Bundle System](https://symfony.com/doc/2.3/book/bundles.html)  
