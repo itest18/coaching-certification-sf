@@ -16,3 +16,13 @@ Coaching SF
 * Application configuration  
 * Code organization  
 * Request processing 
+
+---
+
+#### **3) Development Standardization**  
+* Namming conventions  
+* Coding standards  
+* Third party libraries integration  
+* Composer dependency manager  
+* Development best practices  
+* Framework overloading  
