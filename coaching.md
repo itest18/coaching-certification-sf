@@ -183,5 +183,6 @@ Coaching SF
 [- Using Parameters within a Dependency Injection Class](https://symfony.com/doc/2.3/cookbook/configuration/using_parameters_in_dic.html)  
 [- How to Set external Parameters in the Service Container](https://symfony.com/doc/2.3/cookbook/configuration/external_parameters.html)  
 [- Understanding how the Front Controller, Kernel and Environments Work together](https://symfony.com/doc/2.3/cookbook/configuration/front_controllers_and_kernel.html)  
-[- texttttttttttttt](linkkkkkkkkkkkkkkkkk)  
+
+[- Coding Standards](https://symfony.com/doc/2.3/contributing/code/standards.html)  
 
