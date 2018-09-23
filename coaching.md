@@ -124,4 +124,30 @@ Coaching SF
 [- How to Force HTTPS or HTTP for different URLs](https://symfony.com/doc/2.3/cookbook/security/force_https.html)  
 [- How to Secure any Service or Method in your Application](https://symfony.com/doc/2.3/cookbook/security/securing_services.html)  
 
+---
 
+12) HTTP Caching
+Types of cache (browser, proxies & reverse proxies)
+Expiration (Expires, Cache-Control)
+Validation (Etag, Last-Modified)
+Client side caching
+Server side caching
+Edge Side Includes
+
+[- HTTP Cache](https://symfony.com/doc/2.3/book/http_cache.html)  
+
+---
+
+#### **13) The Command Line Interface**
+* Symfony built-in commands  
+* Custom console commands  
+* Command configuration  
+* Options & arguments definition  
+* Input & Output handling  
+* Command helpers  
+[- How to Create a Console Command](https://symfony.com/doc/2.3/cookbook/console/console_command.html)  
+[- The Console Component](https://symfony.com/doc/2.3/components/console/introduction.html)  
+[- How to Use the Console](https://symfony.com/doc/2.3/cookbook/console/usage.html)  
+[- How to Call a Command from a Controller](https://symfony.com/doc/2.3/cookbook/console/command_in_controller.html)  
+[- How to Enable Logging in Console Commands](https://symfony.com/doc/2.3/cookbook/console/logging.html)  
+[- Using Events](https://symfony.com/doc/2.3/components/console/events.html)  
