@@ -167,7 +167,7 @@ Coaching SF
 [- Testing](https://symfony.com/doc/2.3/book/testing.html)  
 
 
-#### **12) SF Architecture
+#### **12) SF Architecture**
 * The Client / Server model  
 * The HTTP request/response  
 * Namming conventions  
