@@ -166,3 +166,22 @@ Coaching SF
 
 [- Testing](https://symfony.com/doc/2.3/book/testing.html)  
 
+
+#### **12) SF Architecture
+* The Client / Server model  
+* The HTTP request/response  
+* Namming conventions  
+* Coding standards  
+
+[- Symfony and HTTP Fundamentals](https://symfony.com/doc/2.3/book/http_fundamentals.html)  
+[- Hypertext Transfer Protocol](https://www.ietf.org/rfc/rfc2616.txt)  
+
+[- Configuring Symfony (and Environments)](https://symfony.com/doc/2.3/book/configuration.html)  
+[- How to Organize Configuration Files](https://symfony.com/doc/2.3/cookbook/configuration/configuration_organization.html)  
+[- How to Master and Create new Environments](https://symfony.com/doc/2.3/cookbook/configuration/environments.html)  
+[- How to Override Symfony's default Directory Structure](https://symfony.com/doc/2.3/cookbook/configuration/override_dir_structure.html)  
+[- Using Parameters within a Dependency Injection Class](https://symfony.com/doc/2.3/cookbook/configuration/using_parameters_in_dic.html)  
+[- How to Set external Parameters in the Service Container](https://symfony.com/doc/2.3/cookbook/configuration/external_parameters.html)  
+[- Understanding how the Front Controller, Kernel and Environments Work together](https://symfony.com/doc/2.3/cookbook/configuration/front_controllers_and_kernel.html)  
+[- texttttttttttttt](linkkkkkkkkkkkkkkkkk)  
+
