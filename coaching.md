@@ -152,3 +152,17 @@ Coaching SF
 [- How to Call a Command from a Controller](https://symfony.com/doc/2.3/cookbook/console/command_in_controller.html)  
 [- How to Enable Logging in Console Commands](https://symfony.com/doc/2.3/cookbook/console/logging.html)  
 [- Using Events](https://symfony.com/doc/2.3/components/console/events.html)  
+
+---
+
+#### **11) Automated testing**
+* Functional tests  
+* The Client object  
+* The Crawler object  
+* The Profile object  
+* Accessing internal framework objects  
+* Configuring the client  
+* Request / response inspection  
+
+[- Testing](https://symfony.com/doc/2.3/book/testing.html)  
+
