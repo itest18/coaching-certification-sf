@@ -13,6 +13,7 @@ Coaching SF
 [- How to Override any Part of a Bundle](https://symfony.com/doc/2.3/cookbook/bundles/override.html)  
 [- How to Load Service Configuration inside a Bundle](https://symfony.com/doc/2.3/cookbook/bundles/extension.html)  
 [- How to Create Friendly Configuration for a Bundle](https://symfony.com/doc/2.3/cookbook/bundles/configuration.html)  
+[- SensioFrameworkExtraBundle](https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html)  
 
 ---
 
