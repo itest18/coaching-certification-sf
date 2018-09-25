@@ -106,6 +106,7 @@ Coaching SF
 [- Service Container](https://symfony.com/doc/2.3/book/service_container.html)  
 [- How to Work with Compiler Passes in Bundles](https://symfony.com/doc/2.3/cookbook/service_container/compiler_passes.html)  
 [- The Dependency Injection Tags](https://symfony.com/doc/2.3/reference/dic_tags.html)  
+[- The HttpKernel Component](https://symfony.com/doc/2.3/components/http_kernel/introduction.html)  
 
 ---
 
